@@ -1,0 +1,30 @@
+body {
+    background-image: url("../img/thanks.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: blue;
+    margin-left:15%;
+    margin-right:15%
+}
+.text{
+    width: 100%;
+    font-size: 2rem;
+    padding: 1.5%;
+    line-height: 40px;
+    background-color: rgba(238, 235, 235, 0.5);
+    border-radius: 5%;
+}
+.dci{
+    width: 15%;
+    height: 15%;
+    float: right;
+    border-radius: 50%;
+    
+}
+.arbeit{
+    width: 15%;
+    height: 15%;
+    border-radius: 50%;
+   
+    
+}
